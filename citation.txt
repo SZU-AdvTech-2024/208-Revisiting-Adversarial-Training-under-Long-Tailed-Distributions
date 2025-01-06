@@ -4,6 +4,5 @@
     eprint = "2403.10073",
     primaryclass = "cs.CV",
     title = "{Revisiting Adversarial Training under Long-Tailed Distributions}",
-    url = "https://arxiv.org/abs/2403.10073",
     year = "2024"
 }
